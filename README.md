@@ -6,7 +6,7 @@ This project consisted on creating a dashboard that displayed information about 
 
 ## Resources
 - Data
-  - [samples.json](https://github.com/myaakoub93/Belly-Button-Biodiversity/blob/main/samples.json)
+  - [samples.json](https://github.com/myaakoub93/Belly_Button_Biodiversity/blob/main/samples.json)
 
 - Software
   - JavaScript
